@@ -8,3 +8,5 @@
 
 ## BİG-O gösterimi:
 n -> n/2- n/2 -> n/4 - n/4 - n/4 - n/4   olarak devam eder ve burada 2'ye bölünlerek devam ettiği için O(log2^n) işlem her satırda n defa tekrar ettiği için O(n.log2^n) olarak ifade edebilirz
+
+www.patika.dev
